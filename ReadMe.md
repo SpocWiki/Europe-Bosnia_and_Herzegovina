@@ -30,8 +30,10 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 ![[Flag_of_Bosnia_and_Herzegovina.svg|350]] 
 [Alcohol-l::9.6] 
 [Language-Id::] 
-[geo-lon::18.43] 
-[geo-lat::43.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.43] 
+[has_place_latitude::43.87] 
 
 
 
