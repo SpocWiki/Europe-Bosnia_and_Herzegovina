@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/License.secret.md)
 

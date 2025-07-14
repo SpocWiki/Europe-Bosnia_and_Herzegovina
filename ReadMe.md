@@ -38,15 +38,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.secret.md)
 
