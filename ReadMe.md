@@ -36,12 +36,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 [has_place_latitude::43.87] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina|Bosnia_and_Herzegovina]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.public|Bosnia_and_Herzegovina.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.internal|Bosnia_and_Herzegovina.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.protect|Bosnia_and_Herzegovina.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.private|Bosnia_and_Herzegovina.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.personal|Bosnia_and_Herzegovina.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.secret|Bosnia_and_Herzegovina.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\Bosnia-HerzegovinaReadMe.secret.md)
+
