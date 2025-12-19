@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q11194
 inception: 1462-01-01T00:00:00Z
-location: [ 43.856388888, 18.413055555]
+location:
+  - 43.856388888
+  - 18.413055555
 coordinate_location: Point(18.413055555 43.856388888)
 ISNI: "0000000121143009"
 UN_LOCODE: BASJJ
@@ -40,7 +42,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~city,515]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Miljacka,570604]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
