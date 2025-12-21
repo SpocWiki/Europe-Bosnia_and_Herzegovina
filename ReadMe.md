@@ -1,8 +1,12 @@
 ---
-location: [43.87,18.43] 
+aliases:
+  - ReadMe
+location:
+  - 43.87
+  - 18.43
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 ---
 SpocWebEntityId: 26841
 isDeleted: false
