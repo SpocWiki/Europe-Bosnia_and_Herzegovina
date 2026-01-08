@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Sarajevo,11194|WD~Sarajevo,11194]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Sarajevo,11194|WD~Sarajevo,11194]]"
+
 has_time_started: 1462-01-01 
 aliases:
 has_id_wikidata: Q11194
@@ -105,7 +109,7 @@ official_website: https://www.sarajevo.ba/
 
 # [[Sarajevo]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Sarajevo,11194|WD~Sarajevo,11194]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -142,4 +146,21 @@ maxZoom: 18
 > In 2011, Sarajevo was nominated as the 2014 European Capital of Culture. It was also selected with Istočno Sarajevo to host the 2019 European Youth Olympic Winter Festival. In addition, in October 2019, Sarajevo was designated as a UNESCO Creative City for having placed culture at the center of its development strategies. It is also ranked as one of the world's eighteen Cities of Film. In October 2024, National Geographic declared Sarajevo as the best world destination for 2025 according to its readers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarajevo) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo|Sarajevo]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.public|Sarajevo.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.internal|Sarajevo.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.protect|Sarajevo.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.private|Sarajevo.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.personal|Sarajevo.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/States~Bosnia-Herzegovina/Bosnai_Hercegovina/counties~Bosnai/Sarajevo.secret|Sarajevo.secret]] 
 

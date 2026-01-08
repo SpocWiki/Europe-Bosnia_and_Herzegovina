@@ -7,12 +7,25 @@ location:
 type: Country
 tags:
   - geo/Country
+dv_ISO2: BA
+dv_ISO3: BIH
+dv_name-en: Bosnia and Herzegovina
+dv_name-de: Bosnien-Herzegowina
+dv_Area-Total: 51129
+dv_Area-Land: 51000
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: BIH
+dv_Capital: "[[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo]]"
+dv_Alcohol-l: 9.6
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 18.43
+dv_has_place_latitude: 43.87
 ---
 SpocWebEntityId: 26841
 isDeleted: false
 confidential: public
-[ISO2::BA] 
-[ISO3::BIH] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Bosnia and Herzegovina
 zoomFeatures: true 
@@ -22,37 +35,37 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Bosnia and Herzegovina] 
-[name-de::Bosnien-Herzegowina] 
-[Area-Total::51129] 
-[Area-Land::51000] 
-Continent :: [[Europe]]  
-[VehicleCode::BIH] 
-Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bosnia_and_Herzegovina.svg|350]] 
 ![[Anthem-Bosnia-herzegovina.mp3]] 
 ![[Flag_of_Bosnia_and_Herzegovina.svg|350]] 
-[Alcohol-l::9.6] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.43] 
-[has_place_latitude::43.87] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina/ReadMe.secret|ReadMe.secret]] 
 
