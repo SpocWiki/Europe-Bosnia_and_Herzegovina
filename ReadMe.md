@@ -9,8 +9,8 @@ tags:
   - geo/Country
 dv_ISO2: BA
 dv_ISO3: BIH
-dv_name-en: Bosnia and Herzegovina
-dv_name-de: Bosnien-Herzegowina
+dv_has_name_en: Bosnia and Herzegovina
+dv_has_name_de: Bosnien-Herzegowina
 dv_Area-Total: 51129
 dv_Area-Land: 51000
 dv_Continent: "[[../../../Europe]]"
@@ -35,8 +35,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
