@@ -317,7 +317,7 @@ dv_ISO2: BA
 dv_ISO3: BIH
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
+    - "[[../../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina|Bosnia-Herzegovina]]"
     - "[[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public|Bosnia-Herzegovina.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal|Bosnia-Herzegovina.internal]]"
@@ -329,16 +329,16 @@ dv_has_name_en: Bosnia and Herzegovina
 dv_has_name_de: Bosnien-Herzegowina
 dv_Area-Total: 51129
 dv_Area-Land: 51000
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: BIH
-dv_Capital: "[[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo|Sarajevo]]"
+dv_Capital: "[[../geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo|Sarajevo]]"
 dv_Alcohol-l: 9.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 18.43
 dv_has_place_latitude: 43.87
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
+  - "[[../../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina|Bosnia-Herzegovina]]"
   - "[[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public|Bosnia-Herzegovina.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal|Bosnia-Herzegovina.internal]]"
@@ -698,7 +698,7 @@ described_by_source:
   - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[/_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 emergency_phone_number:
@@ -875,7 +875,7 @@ member_of:
   - "[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
   - "[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
   - "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
   - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
   - "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
@@ -958,7 +958,7 @@ hashtag: BosniaandHerzegovina
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bosnia_and_Herzegovina/ReadMe|ReadMe]] 
+[[../Bosnia_and_Herzegovina/ReadMe|ReadMe]] 
 
 SpocWebEntityId:: 26841
 isDeleted:: false
@@ -990,7 +990,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bosnia_and_Herzegovina.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bosnia-herzegovina.mp3|Anthem-Bosnia-herzegovina.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Bosnia-herzegovina.mp3|Anthem-Bosnia-herzegovina.mp3]]
 ![[Flag_of_Bosnia_and_Herzegovina.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
